@@ -6,7 +6,7 @@ public class Principal {
 		
 		
 		
-		System.out.println("INI");
+		System.out.println("FIN");
 
 	}
 
